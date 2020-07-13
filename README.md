@@ -1,5 +1,12 @@
-### Hi there 👋
+### Social networks 👋
+<a href="https://www.youtube.com/channel/UCYdElHs-Puh_MYrv9-erjlw?view_as=subscriber"><img src="https://1.bp.blogspot.com/-d-iEZNHkhM0/Xwx06HHmQ2I/AAAAAAAACi0/X8zO_gjlmBgsxR-UsJ7CiAubvR3Yjd2UQCLcBGAsYHQ/s1600/youtube.png" style="width:118px;height:32px;"></a>
+<a href="https://twitter.com/nacompllo"><img src="https://1.bp.blogspot.com/-TUo3ljSyzKo/Xwx8zeUssaI/AAAAAAAACjA/GoR94aOawUYBfNnVHutrYhQhXPAA3QVhgCLcBGAsYHQ/s1600/twitter.png" style="width:118px;height:32px;"></a>
+<a href="https://www.nacompllo.com/"><img src="https://1.bp.blogspot.com/-qvfdSrgMTTA/Xwx81xbisVI/AAAAAAAACjE/_7V3CRtbU9Y6Pv5ziNIgjC4pNeg6tV5NACLcBGAsYHQ/s1600/blogger.png" style="width:118px;height:32px;"></a>
 
+### My preferred technology
+<img src="https://1.bp.blogspot.com/-ZGS_cXXlPAc/XwyCcWquRBI/AAAAAAAACjc/yMh6gubIyXc6a_cmKKwLRPeeXf2ZqQW2gCLcBGAsYHQ/s1600/azure.png" style="width:118px;height:32px;">
+<img src="https://1.bp.blogspot.com/-sYz-Dfr2Gac/XwyCZL02ZwI/AAAAAAAACjU/v-JJmKL2dKw4sa-XbvCQJxHAxxe64BDHgCLcBGAsYHQ/s1600/csharp_dotnet.png" style="width:118px;height:32px;">
+<img src="https://1.bp.blogspot.com/-zes9y9Sr_Gg/XwyCa1nZMqI/AAAAAAAACjY/B3OrpXYXaNQHO_wqY3qSDMLE-r3GCyxDQCLcBGAsYHQ/s1600/xamarin_forms.png" style="width:118px;height:32px;">
 <!--
 **nacompllo/nacompllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
