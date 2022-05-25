@@ -9,10 +9,6 @@
 ### My published apps 📱
 <a href="https://play.google.com/store/apps/developer?id=Nacompllo&hl=en_us"><img src="https://1.bp.blogspot.com/-k_TJRdD_JtA/XwyIiqZFMrI/AAAAAAAACkA/NfVAFWx5nHYxDQ4zkkrRbWLlHdhylDWEgCLcBGAsYHQ/s1600/mobile.png" style="width:118px;height:32px;"></a>
 
-### My preferred technology 💻
-<a href="https://www.youtube.com/Nacompllo"><img src="https://1.bp.blogspot.com/-ZGS_cXXlPAc/XwyCcWquRBI/AAAAAAAACjc/yMh6gubIyXc6a_cmKKwLRPeeXf2ZqQW2gCLcBGAsYHQ/s1600/azure.png" style="width:118px;height:32px;"></a>
-<a href="https://www.youtube.com/Nacompllo"><img src="https://1.bp.blogspot.com/-sYz-Dfr2Gac/XwyCZL02ZwI/AAAAAAAACjU/v-JJmKL2dKw4sa-XbvCQJxHAxxe64BDHgCLcBGAsYHQ/s1600/csharp_dotnet.png" style="width:118px;height:32px;"></a>
-<a href="https://www.youtube.com/Nacompllo"><img src="https://1.bp.blogspot.com/-zes9y9Sr_Gg/XwyCa1nZMqI/AAAAAAAACjY/B3OrpXYXaNQHO_wqY3qSDMLE-r3GCyxDQCLcBGAsYHQ/s1600/xamarin_forms.png" style="width:118px;height:32px;"></a>
 <!--
 **nacompllo/nacompllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
