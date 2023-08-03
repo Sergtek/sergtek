@@ -3,7 +3,7 @@
 
 ### Social networks 👋
 <a href="https://www.youtube.com/@Nacompllo"><img src="https://1.bp.blogspot.com/-d-iEZNHkhM0/Xwx06HHmQ2I/AAAAAAAACi0/X8zO_gjlmBgsxR-UsJ7CiAubvR3Yjd2UQCLcBGAsYHQ/s1600/youtube.png" style="width:118px;height:32px;"></a>
-<a href="https://x/nacompllo"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYbuulxOROCZkZg0igplLtauYE3UDM_P1kqGkfW8LQO6SvE37I9CmjYytvuw1zBp88CT5Tbx_aQmbT33zIPE4s3OYIC2HEjrVplKleWNSQJYCold1ldHtOFZ4nj_RRYeVjIZxYxMaqXuxILsLV6z5GWIjjItfUd4Ww4YH0DBJkNpBFsPIgPTOmmpbqLTbt/s1600/xLogo.png" style="width:118px;height:32px;"></a>
+<a href="https://www.x.com/nacompllo"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYbuulxOROCZkZg0igplLtauYE3UDM_P1kqGkfW8LQO6SvE37I9CmjYytvuw1zBp88CT5Tbx_aQmbT33zIPE4s3OYIC2HEjrVplKleWNSQJYCold1ldHtOFZ4nj_RRYeVjIZxYxMaqXuxILsLV6z5GWIjjItfUd4Ww4YH0DBJkNpBFsPIgPTOmmpbqLTbt/s1600/xLogo.png" style="width:118px;height:32px;"></a>
 <a href="https://www.nacompllo.com/"><img src="https://1.bp.blogspot.com/-qvfdSrgMTTA/Xwx81xbisVI/AAAAAAAACjE/_7V3CRtbU9Y6Pv5ziNIgjC4pNeg6tV5NACLcBGAsYHQ/s1600/blogger.png" style="width:118px;height:32px;"></a>
 
 ### My published apps 📱
