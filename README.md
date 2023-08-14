@@ -9,6 +9,10 @@
 ### My published apps 📱
 <a href="https://play.google.com/store/apps/developer?id=Nacompllo&hl=en_us"><img src="https://1.bp.blogspot.com/-k_TJRdD_JtA/XwyIiqZFMrI/AAAAAAAACkA/NfVAFWx5nHYxDQ4zkkrRbWLlHdhylDWEgCLcBGAsYHQ/s1600/mobile.png" style="width:118px;height:32px;"></a>
 
+### :fire: My Stats :
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nacompllo&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacompllo&langs_count=5&theme=tokyonight)]()
+
 <!--
 **nacompllo/nacompllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
