@@ -9,13 +9,6 @@
 ### My published apps 📱
 <a href="https://play.google.com/store/apps/developer?id=Nacompllo&hl=en_us"><img src="https://1.bp.blogspot.com/-k_TJRdD_JtA/XwyIiqZFMrI/AAAAAAAACkA/NfVAFWx5nHYxDQ4zkkrRbWLlHdhylDWEgCLcBGAsYHQ/s1600/mobile.png" style="width:118px;height:32px;"></a>
 
-##
-
-### My open source projects :fire: 
-  <!--SA-MP RCON-->
-  <a href="https://github.com/nacompllo/SampRcon">
-    <img align="center" width="406em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nacompllo&repo=SampRcon&theme=tokyonight" />
-  </a>   
 <!--
 **nacompllo/nacompllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
