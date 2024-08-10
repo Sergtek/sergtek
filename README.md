@@ -8,7 +8,6 @@
 
 ### My published apps 💻
 <a href="https://play.google.com/store/apps/developer?id=Nacompllo&hl=en_us"><img alt="Android" src="https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white&style=for-the-badge" /></a>
-<a href="https://apps.microsoft.com/search/publisher?name=Nacompllo&hl=en-us&gl=US"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white&style=for-the-badge" /></a>
 
 <!--
 **nacompllo/nacompllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
