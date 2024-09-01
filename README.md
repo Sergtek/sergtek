@@ -1,13 +1,30 @@
-### Support me on Ko-fi ☕
+# Welcome to my GitHub profile! 👋
+
+I'm a software developer passionate about mobile programming, both native (Android with Kotlin) and cross-platform (.NET Maui, Ionic with Capacitor). Currently working on private sector projects involving various mobile development technologies.
+
+### Support my work ☕
 <a href="https://ko-fi.com/nacompllo"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjS38xLsDGtE9pLzBOks40WyC5elONtfXRJXkLktB1eHsyNphp_jNT3MLYbnDxDEvbAJ2fBThxEItrml_L9d85_Da_pjd5jBH-IzdKMOGMhfTfvIBx8R8X7WZzhuAitVEKc_70QIBpw5ytFUfQf8ug_0quMz96YBz7S0BSX_YIPJKii1r7OgAm_BWBw4Q" style="width:170px;height:40px;"></a>
 
 ### Social networks 👋
-<a href="https://www.youtube.com/@Nacompllo"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" /></a>
 <a href="https://www.x.com/nacompllo"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" /></a>
-<a href="https://www.nacompllo.com/"><img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.youtube.com/@Nacompllo"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" /></a>
+
+### Technologies & Tools 🛠️
+- 📱 Android (Kotlin)
+- 🌐 .NET MAUI
+- ⚡ Ionic with Capacitor
+- 🖥️ C#
 
 ### My published apps 💻
-<a href="https://play.google.com/store/apps/developer?id=Nacompllo&hl=en_us"><img alt="Android" src="https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white&style=for-the-badge" /></a>
+- [Centesimal Stopwatch](https://www.nacompllo.com/2022/02/centesimal-stopwatch.html) - Centesimal and sexagesimal stopwatch for Android
+
+### Featured Open Source Projects 🚀
+- [SampRcon](https://github.com/Sergtek/SampRcon) - A RCON client for SA-MP servers on Android
+
+### Let's Connect! 🤝
+Feel free to reach out for collaborations or just a chat!
+Email: sergtek@nacompllo.dev
+
 
 <!--
 **nacompllo/nacompllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
