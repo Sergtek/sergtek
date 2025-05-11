@@ -11,9 +11,8 @@ I'm a software developer passionate about mobile programming, both native (Andro
 
 ### Technologies & Tools 🛠️
 - 📱 Android (Kotlin)
-- 🌐 .NET MAUI
 - ⚡ Ionic with Capacitor
-- 🖥️ C#
+- 🌐 .NET MAUI
 
 ### My published apps 💻
 - [Centesimal Stopwatch](https://www.nacompllo.com/2022/02/centesimal-stopwatch.html) - Centesimal and sexagesimal stopwatch for Android
