@@ -10,9 +10,9 @@ I'm a software developer passionate about mobile programming, both native (Andro
 <a href="https://www.youtube.com/@Nacompllo"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" /></a>
 
 ### Technologies & Tools 🛠️
-- 📱 Android (Kotlin)
-- ⚡ Ionic with Capacitor
-- 🌐 .NET MAUI
+- 📱 [Kotlin](https://github.com/JetBrains/kotlin)
+- 🌐 [.NET MAUI](https://github.com/dotnet/maui)
+- ⚡ [Capacitor](https://github.com/ionic-team/capacitor)
 
 ### My published apps 💻
 - [Centesimal Stopwatch](https://www.nacompllo.com/2022/02/centesimal-stopwatch.html) - Centesimal and sexagesimal stopwatch for Android
