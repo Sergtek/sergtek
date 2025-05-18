@@ -14,9 +14,6 @@ I'm a software developer passionate about mobile programming, both native (Andro
 - 🌐 [.NET MAUI](https://github.com/dotnet/maui)
 - ⚡ [Capacitor](https://github.com/ionic-team/capacitor)
 
-### My published apps 💻
-- [Centesimal Stopwatch](https://www.nacompllo.com/2022/02/centesimal-stopwatch.html) - Centesimal and sexagesimal stopwatch for Android
-
 ### Featured Open Source Projects 🚀
 - [SampRcon](https://github.com/Sergtek/SampRcon) - A RCON client for SA-MP servers on Android
 
