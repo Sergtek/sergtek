@@ -19,7 +19,7 @@ I'm a software developer passionate about mobile programming, both native (Andro
 
 ### Let's Connect! 🤝
 Feel free to reach out for collaborations or just a chat!
-Email: sergtek@nacompllo.dev
+Email: sergtek@tuta.com
 
 
 <!--
