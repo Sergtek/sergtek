@@ -3,7 +3,7 @@
 I'm a software developer passionate about mobile programming, both native (Android with Kotlin) and cross-platform (.NET Maui, Ionic with Capacitor). Currently working on private sector projects involving various mobile development technologies.
 
 ### Support my work ☕
-<a href="https://ko-fi.com/nacompllo"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjS38xLsDGtE9pLzBOks40WyC5elONtfXRJXkLktB1eHsyNphp_jNT3MLYbnDxDEvbAJ2fBThxEItrml_L9d85_Da_pjd5jBH-IzdKMOGMhfTfvIBx8R8X7WZzhuAitVEKc_70QIBpw5ytFUfQf8ug_0quMz96YBz7S0BSX_YIPJKii1r7OgAm_BWBw4Q" style="width:170px;height:40px;"></a>
+<a href="https://ko-fi.com/sergtek"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjS38xLsDGtE9pLzBOks40WyC5elONtfXRJXkLktB1eHsyNphp_jNT3MLYbnDxDEvbAJ2fBThxEItrml_L9d85_Da_pjd5jBH-IzdKMOGMhfTfvIBx8R8X7WZzhuAitVEKc_70QIBpw5ytFUfQf8ug_0quMz96YBz7S0BSX_YIPJKii1r7OgAm_BWBw4Q" style="width:170px;height:40px;"></a>
 
 ### Social networks 👋
 <a href="https://www.x.com/nacompllo"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" /></a>
