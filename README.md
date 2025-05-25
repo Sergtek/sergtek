@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 👋
 
-I'm a software developer passionate about mobile programming, both native (Android with Kotlin) and cross-platform (.NET Maui, Ionic with Capacitor). Currently working on private sector projects involving various mobile development technologies.
+Passionate software developer with strong expertise in mobile programming, proficient in native Android development (Kotlin) and cross-platform frameworks (.NET MAUI, Capacitor). Currently engaged in enterprise mobile projects, building robust and scalable applications for business environments.
 
 ### Support my work ☕
 <a href="https://ko-fi.com/sergtek"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjS38xLsDGtE9pLzBOks40WyC5elONtfXRJXkLktB1eHsyNphp_jNT3MLYbnDxDEvbAJ2fBThxEItrml_L9d85_Da_pjd5jBH-IzdKMOGMhfTfvIBx8R8X7WZzhuAitVEKc_70QIBpw5ytFUfQf8ug_0quMz96YBz7S0BSX_YIPJKii1r7OgAm_BWBw4Q" style="width:170px;height:40px;"></a>
