@@ -1,19 +1,23 @@
-# Welcome to my GitHub profile! 👋
+# Red pill or blue pill? I choose green deployment 🔴🔵→🟢
 
 Passionate software developer with extensive experience in mobile programming, expert in cross-platform framework development (.NET MAUI, Capacitor) and native Android development (Kotlin). Currently involved in developing robust and scalable applications for enterprise environments.
 
-### Support my work ☕
+## Support my work ☕
 <a href="https://ko-fi.com/sergtek"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjS38xLsDGtE9pLzBOks40WyC5elONtfXRJXkLktB1eHsyNphp_jNT3MLYbnDxDEvbAJ2fBThxEItrml_L9d85_Da_pjd5jBH-IzdKMOGMhfTfvIBx8R8X7WZzhuAitVEKc_70QIBpw5ytFUfQf8ug_0quMz96YBz7S0BSX_YIPJKii1r7OgAm_BWBw4Q" style="width:170px;height:40px;"></a>
 
-### Technologies & Tools 🛠️
+## 🚀 Tech Stack & Expertise
+
+### **Mobile & Cross-Platform Development**
 - 🌐 [.NET MAUI](https://github.com/dotnet/maui)
 - ⚡ [Capacitor](https://github.com/ionic-team/capacitor)
 - 📱 [Kotlin](https://github.com/JetBrains/kotlin)
 
-### Featured Open Source Projects 🚀
-- [SampRcon](https://github.com/Sergtek/SampRcon) - A RCON client for SA-MP servers on Android
+## 🎯 Featured Projects
 
-### Let's Connect! 🤝
+### **[SampRcon](https://github.com/Sergtek/SampRcon)**
+> 🎮 **A RCON client for SA-MP and open.mp servers on Android**
+
+## Let's Connect! 🤝
 Feel free to reach out for collaborations or just a chat!
 Email: sergtek@tuta.com
 
