@@ -1,4 +1,4 @@
-# We build sandcastles in silicon, knowing the tide comes ⏳
+# About me
 
 Passionate software developer with extensive experience in mobile programming. Specialized in building applications using cross-platform frameworks (.NET MAUI, Capacitor) and native Android development (Kotlin). Currently building robust and scalable applications in the private sector.
 
