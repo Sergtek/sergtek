@@ -1,4 +1,4 @@
-# About me
+# 👋 Hey there
 
 Passionate software developer with extensive experience in mobile programming. Specialized in building applications using cross-platform frameworks (.NET MAUI, Capacitor) and native Android development (Kotlin). Currently building robust and scalable applications in the private sector.
 
